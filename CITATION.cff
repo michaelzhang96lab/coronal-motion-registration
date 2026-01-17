@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Coronal Motion Registration: Timelapse Alignment + Feature Tracking on SOHO LASCO C2"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Zhongyi Michael
+repository-code: "https://github.com/coronal-motion-registration/coronal-motion-registration"
+license: MIT
+keywords:
+  - registration
+  - motion tracking
+  - phase correlation
+  - template matching
+  - timelapse analysis
+  - quantitative measurement
+  - SOHO
+  - LASCO
