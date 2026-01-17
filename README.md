@@ -31,7 +31,7 @@ In my doctoral work (engineering metrology and statistical alignment), the recur
 **SOHO LASCO C2** real-time imagery (48-hour animated GIF movies are commonly available).
 
 Example links:
-- SOHO Real-Time Images & Movies: https://soho.nascom.nasa.gov/data/realtime-images.html  
+- SOHO Real-Time Images & Movies: [https://soho.nascom.nasa.gov/data/LATEST](https://soho.nascom.nasa.gov/data/LATEST)  
 - A valid input must be a **multi-frame animated GIF movie** (single-frame “latest image” GIFs are not usable).
 
 ---
