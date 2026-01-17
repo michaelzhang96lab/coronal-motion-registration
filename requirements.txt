@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=2.0
+opencv-python>=4.8
+matplotlib>=3.7
+imageio>=2.31
+requests>=2.31
